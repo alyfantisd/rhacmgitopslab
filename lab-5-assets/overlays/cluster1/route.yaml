@@ -3,4 +3,4 @@ kind: Route
 metadata:
   name: the-route
 spec:
-  host: web-app.apps.dev.a4e4.sandbox1545.opentlc.com
+  host: web-app.apps.ocp4dr.alpha.local
